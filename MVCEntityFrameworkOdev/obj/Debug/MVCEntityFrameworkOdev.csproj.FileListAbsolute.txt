@@ -1,0 +1,105 @@
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\MVCEntityFrameworkOdev.dll.config
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\MVCEntityFrameworkOdev.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\MVCEntityFrameworkOdev.pdb
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\csc.exe
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\csc.exe.config
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\csc.rsp
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\csi.exe
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\csi.rsp
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\System.AppContext.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\vbc.exe
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\vbc.exe.config
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\vbc.rsp
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Helpers.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Mvc.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Razor.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Webpages.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Webpages.Razor.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Razor.xml
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Webpages.xml
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Webpages.Razor.xml
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Helpers.xml
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Mvc.xml
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\obj\Debug\MVCEntityFrameworkOdev.csprojAssemblyReference.cache
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\obj\Debug\MVCEntityFrameworkOdev.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\obj\Debug\MVCEntityFrameworkOdev.csproj.CopyComplete
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\obj\Debug\MVCEntityFrameworkOdev.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\obj\Debug\MVCEntityFrameworkOdev.pdb
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\EntityFramework.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\EntityFramework.xml
+C:\Users\ahmet\Desktop\Odevler\UrunListeleme\MVCEntityFrameworkOdev\bin\EntityFramework.SqlServer.xml
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\MVCEntityFrameworkOdev.dll.config
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\MVCEntityFrameworkOdev.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\MVCEntityFrameworkOdev.pdb
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\csc.exe
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\csc.exe.config
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\csc.rsp
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\csi.exe
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\csi.rsp
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\System.AppContext.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\System.Collections.Immutable.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\System.IO.FileSystem.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\System.Reflection.Metadata.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\vbc.exe
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\vbc.exe.config
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\vbc.rsp
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\VBCSCompiler.exe
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\roslyn\VBCSCompiler.exe.config
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\EntityFramework.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\EntityFramework.SqlServer.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\Microsoft.Web.Infrastructure.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Helpers.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Mvc.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Razor.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Webpages.Deployment.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Webpages.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Webpages.Razor.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\EntityFramework.xml
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\EntityFramework.SqlServer.xml
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Razor.xml
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Webpages.xml
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Webpages.Deployment.xml
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Webpages.Razor.xml
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Helpers.xml
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\System.Web.Mvc.xml
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\obj\Debug\MVCEntityFrameworkOdev.csprojAssemblyReference.cache
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\obj\Debug\MVCEntityFrameworkOdev.csproj.CopyComplete
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\obj\Debug\MVCEntityFrameworkOdev.dll
+F:\Ahmet Yazılım Dosyalar\Yazılım Dosyalar\16-20 Mayıs\UrunListeleme\MVCEntityFrameworkOdev\obj\Debug\MVCEntityFrameworkOdev.pdb

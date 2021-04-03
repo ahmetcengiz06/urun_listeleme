@@ -1,0 +1,73 @@
+﻿@model Urunler
+@{
+    ViewBag.Title = "Suppliers";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+    <div id="site_content">
+        <div id="content">
+            <div class="container">
+                @if (ViewBag.Check != null)
+                {
+                    if (ViewBag.Check)
+                    {
+                        <h2>Sipariş Verildi</h2>
+                    }
+                    else
+                    {
+                        <h2>Sipariş Verilirken sorun oluştur</h2>
+                    }
+                }
+                <div class="col-md-6">
+                    <table class="table table-hover table-bordered">
+                        <thead>
+                            <tr>
+
+                                <th>Ürün Adı</th>
+                                <th>Tedarikçi</th>
+                                <th>Beklenen Sipariş</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+
+
+                            <tr>
+
+                                <td>@Model.ProductName</td>
+                                <td>@Model.Supplier</td>
+                                @if (Model.UnitsOrder > 0)
+                                {
+                                    <td>@Model.UnitsOrder</td>
+                                }
+                                else
+                                {
+                                    using (Html.BeginForm())
+                                    {
+                                        @Html.HiddenFor(i => i.ProductID)
+
+                                        <td>@Html.EditorFor(i => i.UnitsOrder)</td>
+                                        <td><button>Tedarik Et</button></td>
+                                    }
+                                }
+
+
+
+
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+

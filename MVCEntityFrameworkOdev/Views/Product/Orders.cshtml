@@ -1,0 +1,49 @@
+﻿@model List<Urunler>
+@{
+    ViewBag.Title = "Orders";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div id="site_content">
+    <div id="content">
+        <div class="container">
+            <div class="col-md-6">
+                <table class="table table-hover table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Müşteri</th>
+                            <th>Ürün</th>
+                            <th>Sİpariş Tarihi</th>
+                            <th>Sipariş Girişi Yapan Çalışan</th>
+                            <th>
+                                @using (Html.BeginForm())
+                                {
+                                    @Html.DropDownList("calisanlar", (IEnumerable<SelectListItem>)ViewBag.Calisanlar, "Bir Çalışan Seçiniz", new { @class = "form-control",value="0" });
+                                    @Html.DropDownList("musteriler", (IEnumerable<SelectListItem>)ViewBag.Musteriler, "Bir Müşteri Seçiniz", new { @class = "form-control",value="" });
+
+                                    <input type="submit" value="Filtrele" />
+                                }
+                            </th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Urunler item in Model)
+                        {
+
+                            <tr>
+                                <td>@item.Customer</td>
+                                <td>@item.ProductName</td>
+                                <td>@item.OrderDate</td>
+                                <td>@item.FullName</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
